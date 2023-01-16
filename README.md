@@ -8,4 +8,9 @@
   - [ETL_Data_Analysis](https://github.com/reema93jain/ETL_Data_Analysis)
 - <b>Analyze Massachusetts Bay Transportation Authority(MBTA) </b>
   - [Analyze_MBTA](https://github.com/reema93jain/Analyze_MBTA)
-
+- <b>Hadoop</b>
+  - [Hadoop](https://github.com/reema93jain/Hadoop)
+- <b>Handling Big Data Using Spark & Airflow </b>
+  - [Spark_Airflow](https://github.com/reema93jain/Spark_Airflow)
+- <b>ETL Using Nifi </b>
+  - [Nifi](https://github.com/reema93jain/Nifi)
