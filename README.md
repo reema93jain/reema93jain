@@ -1,4 +1,4 @@
-### Hi, I am Reema currently working as Financial Analyst. I am looking for career change in the world of Data as Data Engineer/Data Analyst.
+### Hi, My name is Reema Jain and I am a tech-savvy financial analyst looking for career change in the world of Data as Data Engineer/Data Analyst.
 
 <h2>👨‍💻 MIT xPro - Professional Certificate in Data Engineering Projects:</h2> 
 
@@ -14,3 +14,7 @@
   - [Spark_Airflow](https://github.com/reema93jain/Spark_Airflow)
 - <b>ETL Using Nifi </b>
   - [Nifi](https://github.com/reema93jain/Nifi)
+    
+<h2>👨‍💻 Professional Projects:</h2>
+- <b>Tested Business Intelligence(BI) Engines </b>
+  - [Analyze_MBTA](https://github.com/reema93jain/Analyze_MBTA)
