@@ -15,6 +15,6 @@
 - <b>ETL Using Nifi </b>
   - [Nifi](https://github.com/reema93jain/Nifi)
     
-<h2>👨‍💻 Professional Projects:</h2>
-- <b>Tested Business Intelligence(BI) Engines </b>       
-  - [BI_Engines](https://github.com/reema93jain/BI_Engines)
+<h2>👨‍💻 Professional Projects:</h2>                                                                                                                   
+- <b>Tested Business Intelligence(BI) Engines</b>                                                                                      
+  - [BI_Engines](https://github.com/reema93jain/BI_Engines)                                                    
