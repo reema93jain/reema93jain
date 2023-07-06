@@ -17,5 +17,5 @@
     
 <h2>👨‍💻 Work Projects:</h2> 
 
-- <b>Tested Business Intelligence Engines </b>
+- <b>Tested Business Intelligence Engines(ChDB and DuckDB) </b>
   - [BI_Engines](https://github.com/reema93jain/BI_Engines)                                                
