@@ -1,4 +1,4 @@
-### Hi, My name is Reema Jain and I am a tech-savvy financial analyst looking for career change in the world of Data as Data Engineer/Data Analyst.
+### Hi,My name is Reema Jain, and I am a tech-savvy data engineer seeking to transition my career into the dynamic field of Data Engineering.
 
 <h2>👨‍💻 MIT xPro - Professional Certificate in Data Engineering Projects:</h2> 
 
